@@ -9,7 +9,7 @@
 #
 #On my honor,Lilian Sena Larbi,this programming assignment is my own work
 #and I have not provided this code to any other student.
-from gc import is_finalized
+
 
 
 def main():
